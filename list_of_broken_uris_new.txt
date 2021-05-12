@@ -1,0 +1,10 @@
+1: http://www.yso.fi/onto/yso/p18078 - http://www.w3.org/2004/02/skos/core#closeMatch - http://id.loc.gov/authorities/subjects/sh85132435
+2: http://www.yso.fi/onto/yso/p21073 - http://www.w3.org/2004/02/skos/core#closeMatch - http://id.loc.gov/authorities/subjects/sh00007354
+3: http://www.yso.fi/onto/yso/p3441 - http://www.w3.org/2004/02/skos/core#closeMatch - http://id.loc.gov/authorities/subjects/sh85120565
+4: http://www.yso.fi/onto/yso/p6016 - http://www.w3.org/2004/02/skos/core#closeMatch - http://id.loc.gov/authorities/subjects/sh85101065
+5: http://www.yso.fi/onto/yso/p24184 - http://www.w3.org/2004/02/skos/core#closeMatch - http://id.loc.gov/authorities/subjects/sh85000887
+6: http://www.yso.fi/onto/yso/p16640 - http://www.w3.org/2004/02/skos/core#closeMatch - http://id.loc.gov/authorities/subjects/sh85069931
+7: http://www.yso.fi/onto/yso/p2924 - http://www.w3.org/2004/02/skos/core#closeMatch - http://id.loc.gov/authorities/subjects/sh85066667
+8: http://www.yso.fi/onto/yso/p417 - http://www.w3.org/2004/02/skos/core#closeMatch - http://id.loc.gov/authorities/subjects/sh85117361
+9: http://www.yso.fi/onto/yso/p1358 - http://www.w3.org/2004/02/skos/core#closeMatch - http://id.loc.gov/authorities/subjects/sh85112607
+10: http://www.yso.fi/onto/yso/p10865 - http://www.w3.org/2004/02/skos/core#narrowMatch - http://id.loc.gov/authorities/subjects/sh2002011410
